@@ -1,0 +1,27 @@
+.azul{
+	background-color: blue;
+	font-size: 15px;
+	font-family: Arial;
+	height: 20px;
+}
+.negro{
+	background-color: black;
+	font-weight: 34px;
+}
+.rojo{
+	background-color: red;
+}
+#princ{
+	text-align: center;
+}
+.supresion{
+	list-style-type: none;
+}
+.bn1{
+	background-color: orange;
+	color: white;
+}
+.bn1:hover{
+	background-color: rgba(81, 65, 23, 0.86);
+	color: white;
+}
